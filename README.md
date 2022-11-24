@@ -1,6 +1,6 @@
 # RushHour
 
-## This is a web app that uses Deep-Learning to prdict and streamline traffic flow and also helps identify accident prone areas
+## This is a web app that uses Machine-Learning to predict and streamline traffic flow and also helps identify accident prone areas
 
 ### Features
 - [ ] Live stat flip-cards
